@@ -16,7 +16,7 @@ In addition to this as 1 Googolplex accounts for more atoms on the known univers
 The Solution
 ------------
 
-To reqruit a team a highly skilled mathematicians to work around the limits of modern computing and continue this project with hard-forks each time a new computing architecture is released.
+To recruit a team a highly skilled mathematicians to work around the limits of modern computing and continue this project with hard-forks each time a new computing architecture is released.
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
