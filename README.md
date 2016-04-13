@@ -28,4 +28,4 @@ License
 GoogolplexCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
-[![tip for next commit](http://tip4commit.com/projects/891.svg)](http://tip4commit.com/github/GoogolplexCoin/GoogolPlexCoin)
+[![Project Status: Concept - Minimal or no implementation has been done yet.](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
