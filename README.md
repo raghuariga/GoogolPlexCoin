@@ -21,6 +21,8 @@ To recruit a team a highly skilled mathematicians to work around the limits of m
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2014 GoogolplexCoin Developers
+Copyright (c) 2024 GoogolplexCoin Developers
+
 
 License
 -------
